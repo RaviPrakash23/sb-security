@@ -1,2 +1,2 @@
-# sb-security-
+# sb-security
 Spring Security
